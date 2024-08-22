@@ -19,3 +19,5 @@
 - **CustomRow:** A customizable row layout component.
 - **CustomDiv:** A customizable div component.
 - **StyledImg:** A styled image component.
+
+![스크린샷 2024-08-22 215212](https://github.com/user-attachments/assets/8a96ea4d-eddb-4a73-a146-4051e2409624)
